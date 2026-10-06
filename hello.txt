@@ -1,0 +1,3 @@
+Hello from GitHub
+This file is for Jenkins Practical.
+My first GitHub-Jenkins integration.
